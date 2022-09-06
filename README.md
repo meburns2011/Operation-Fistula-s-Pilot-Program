@@ -1,2 +1,11 @@
 # Operation-Fistula-s-Pilot-Program
-I've shown through graphs the success of the program in removing anal and vaginal fistulas from women in 5 African Countries
+
+Operation Fistual is a program keeping track of symptoms and surgical removal of anal and vaginal fistulas in women.
+
+#Countries
+The countries where the program collects data from are 
+Malawai
+Zambia
+Madagascar 
+Mozambique
+Mauritania
